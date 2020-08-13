@@ -1,0 +1,37 @@
+body {
+  background-color: lightblue;
+}
+
+
+.box2{
+	background-color: #cccccc;
+	width: 800px;
+	height: 700px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.box3{
+	background-color:#009900;
+	width: 772px;
+	height: 213px;
+	margin:10px;
+	padding: 10px 5px 2px 6px;
+}  
+
+.box4{
+	background-color:blue;
+	width: 772px;
+	height: 59px;
+	margin:10px;
+	border-radius: 5px;
+	padding: 10px 5px 2px 6px;
+}
+
+.box5{
+	background-color:#FF6699;
+	width: 772px;
+	height: 288px;
+	margin:10px;
+	padding: 10px 5px 2px 6px;
+}
